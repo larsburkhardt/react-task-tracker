@@ -1,0 +1,22 @@
+{
+  "tasks": [
+        {
+            "id": 1,
+            "text": "Yoyoyoy",
+            "day": "2022-04-27",
+            "reminder": true
+        },
+        {
+            "id": 2,
+            "text": "Yayayaya",
+            "day": "2022-05-01",
+            "reminder": false
+        },
+        {
+            "id": 3,
+            "text": "Yeyeyeye",
+            "day": "2022-04-26",
+            "reminder": true
+        }
+  ]
+}
